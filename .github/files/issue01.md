@@ -1,3 +1,4 @@
+# "Duplicate fo issue #2" 
 # GIVEN:
 - User opens _sidebar.md file
 # WHEN:
